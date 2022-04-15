@@ -1,0 +1,36 @@
+c:\users\hh967\onedrive\documents\visual studio 2015\Projects\test_playlist_1\test_playlist_1\bin\Debug\test_playlist_1.exe.config
+c:\users\hh967\onedrive\documents\visual studio 2015\Projects\test_playlist_1\test_playlist_1\bin\Debug\test_playlist_1.exe
+c:\users\hh967\onedrive\documents\visual studio 2015\Projects\test_playlist_1\test_playlist_1\bin\Debug\test_playlist_1.pdb
+c:\users\hh967\onedrive\documents\visual studio 2015\Projects\test_playlist_1\test_playlist_1\bin\Debug\Interop.WMPLib.dll
+c:\users\hh967\onedrive\documents\visual studio 2015\Projects\test_playlist_1\test_playlist_1\bin\Debug\AxInterop.WMPLib.dll
+c:\users\hh967\onedrive\documents\visual studio 2015\Projects\test_playlist_1\test_playlist_1\obj\Debug\test_playlist_1.csprojResolveAssemblyReference.cache
+c:\users\hh967\onedrive\documents\visual studio 2015\Projects\test_playlist_1\test_playlist_1\obj\Debug\Interop.WMPLib.dll
+c:\users\hh967\onedrive\documents\visual studio 2015\Projects\test_playlist_1\test_playlist_1\obj\Debug\AxInterop.WMPLib.dll
+c:\users\hh967\onedrive\documents\visual studio 2015\Projects\test_playlist_1\test_playlist_1\obj\Debug\test_playlist_1.csproj.ResolveComReference.cache
+c:\users\hh967\onedrive\documents\visual studio 2015\Projects\test_playlist_1\test_playlist_1\obj\Debug\test_playlist_1.MusicPlayerApp.resources
+c:\users\hh967\onedrive\documents\visual studio 2015\Projects\test_playlist_1\test_playlist_1\obj\Debug\test_playlist_1.Properties.Resources.resources
+c:\users\hh967\onedrive\documents\visual studio 2015\Projects\test_playlist_1\test_playlist_1\obj\Debug\test_playlist_1.csproj.GenerateResource.Cache
+c:\users\hh967\onedrive\documents\visual studio 2015\Projects\test_playlist_1\test_playlist_1\obj\Debug\test_playlist_1.exe
+c:\users\hh967\onedrive\documents\visual studio 2015\Projects\test_playlist_1\test_playlist_1\obj\Debug\test_playlist_1.pdb
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\bin\Debug\test_playlist_1.exe.config
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\obj\Debug\Interop.WMPLib.dll
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\obj\Debug\test_playlist_1.csproj.ResolveComReference.cache
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\obj\Debug\test_playlist_1.exe
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\obj\Debug\test_playlist_1.pdb
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\bin\Debug\test_playlist_1.exe
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\bin\Debug\test_playlist_1.pdb
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\bin\Debug\mscorlib.dll
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\bin\Debug\System.Net.Http.dll
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\bin\Debug\System.Net.Http.xml
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\bin\Debug\normidna.nlp
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\bin\Debug\normnfc.nlp
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\bin\Debug\normnfd.nlp
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\bin\Debug\normnfkc.nlp
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\bin\Debug\normnfkd.nlp
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\bin\Debug\Interop.WMPLib.dll
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\obj\Debug\test_playlist_1.csprojResolveAssemblyReference.cache
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\obj\Debug\test_playlist_1.MusicPlayerApp.resources
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\obj\Debug\test_playlist_1.Properties.Resources.resources
+C:\Users\BF\3D Objects\test_playlist_1\test_playlist_1\obj\Debug\test_playlist_1.csproj.GenerateResource.Cache
